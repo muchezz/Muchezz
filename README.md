@@ -1,9 +1,9 @@
 ### Howdy! 👋
 
 
-🔭 I’m currently working on #BuildforSDG Challenge, a project by Andela and Facebook /n
-🌱 I’m currently learning Docker and Django /n
-📫 How to reach me: https://twitter.com/Mucheeru or https://www.linkedin.com/in/mucheruj/ /n
+🔭 I’m currently working on #BuildforSDG Challenge, a project by Andela and Facebook /br
+🌱 I’m currently learning Docker and Django /br
+📫 How to reach me: https://twitter.com/Mucheeru or https://www.linkedin.com/in/mucheruj/ /br
 👯 Love Walking,hiking and i don't own a pet.
 <!--
 **Muchezz/Muchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
