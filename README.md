@@ -2,6 +2,7 @@
 
 
 🔭 I’m currently working in CloudFactory Kenya <br>
+💬 I also work as a QA tester - freelance at uTest.
 🌱 I’m currently learning Docker, Django and ReactJs <br>
 📫 How to reach me: https://twitter.com/Mucheeru or https://www.linkedin.com/in/mucheruj/ <br>
 👯 Love Walking,hiking and boat riding..
