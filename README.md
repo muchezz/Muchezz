@@ -6,9 +6,9 @@
 🌱 I’m currently learning Docker, Django and ReactJs <br>
 📫 How to reach me: [Twitter](https://twitter.com/Mucheeru) or [linkedIn](https://www.linkedin.com/in/mucheruj/) <br>
 👯 Love Walking,hiking and boat riding..<br>
-   ⚡Projects:
-  A Microblog completely built in Flask. Check it out [here](https://microblogke-flask.herokuapp.com/) <br>
-  An Ecommerce platform built in Flask during the Andela SDG Challenge. Check it out [here](https://kaehcle-backend.herokuapp.com/)<br>
+   ⚡Projects: <br>
+ - A Microblog completely built in Flask. Check it out [here](https://microblogke-flask.herokuapp.com/) <br>
+ - An Ecommerce platform built in Flask during the Andela SDG Challenge. Check it out [here](https://kaehcle-backend.herokuapp.com/)<br>
 <!--
 **Muchezz/Muchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
