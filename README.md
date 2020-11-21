@@ -8,6 +8,7 @@
 👯 Love Walking,hiking and boat riding..<br>
 ⚡ Projects <br>
   <li>A Microblog completely built in Flask. Check it out [here](https://microblogke-flask.herokuapp.com/)</li>
+  <li> [Twitter](https://twitter.com/Mucheeru)</li>
   <li>An Ecommerce platform built in Flask during the Andela SDG Challenge. Check it out [here](https://kaehcle-backend.herokuapp.com/)</li>
 <!--
 **Muchezz/Muchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
