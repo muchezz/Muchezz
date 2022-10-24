@@ -17,10 +17,6 @@ My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding 
 [![Outlook Badge](https://img.shields.io/badge/-mucheru@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:mucheru@outlook.com)](mailto:mucheru@outlook.com)
 [![Website Badge](https://img.shields.io/badge/-muchezz.github.io-black?style=flat-square&logo=github&logoColor=white&link=https://muchezz.github.io/)](https://muchezz.github.io/)
 
-
-[![Mucheru's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muchezz&theme=xcode)](https://git.io/Muchezz)
-
-
 ## ⚡ Technologies
 
 ### Language :
@@ -36,7 +32,7 @@ My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding 
 ### DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-alt="medium" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="medium" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -49,6 +45,7 @@ alt="medium" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-ba
 <a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p> -->
 
+[![Mucheru's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muchezz&theme=xcode)](https://git.io/Muchezz)
 ## 📈 Stats
 <p align="center">
 	
