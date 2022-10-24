@@ -1,5 +1,5 @@
 ### Howdy! 
-My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding
+My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding <br>
 ![Viewers](https://gpvc.arturio.dev/muchezz)
 <!-- - 💬 Ask me about ... https://muchezz.github.io/
 🔭 I’m currently working in CloudFactory Kenya <br>
@@ -36,12 +36,8 @@ My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding
 ### DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/argocd%20-%23430098.svg?logo=argocd&logoColor=white"></a>
-
-
-
+alt="medium" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
