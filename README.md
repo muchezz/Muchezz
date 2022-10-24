@@ -22,7 +22,7 @@ My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding 
 ### Language :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Go](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
+![Go](<img alt="medium" src=https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go />)
 ![Yaml](https://img.shields.io/badge/-Yaml-black?style=flat-square&logo=Yaml)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
