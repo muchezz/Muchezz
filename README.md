@@ -22,13 +22,7 @@ My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding 
 ### Language :
 <img alt="medium" src="https://img.shields.io/badge/Golang-CC342D?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Go](<img alt="medium" src=https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go />)
-![Yaml](https://img.shields.io/badge/-Yaml-black?style=flat-square&logo=Yaml)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
 ### DevOps & Cloud Tools:
