@@ -36,7 +36,9 @@ My Name is Mucheru 👋 A cloud DevOps Engineer. I love walking and boat riding
 ### DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+<a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/argocd%20-%23430098.svg?logo=argocd&logoColor=white"></a>
+
+
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
